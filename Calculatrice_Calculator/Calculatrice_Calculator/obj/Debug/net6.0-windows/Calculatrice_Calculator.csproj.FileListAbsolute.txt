@@ -1,0 +1,17 @@
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\bin\Debug\net6.0-windows\Calculatrice_Calculator.exe
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\bin\Debug\net6.0-windows\Calculatrice_Calculator.deps.json
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\bin\Debug\net6.0-windows\Calculatrice_Calculator.runtimeconfig.json
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\bin\Debug\net6.0-windows\Calculatrice_Calculator.dll
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\bin\Debug\net6.0-windows\Calculatrice_Calculator.pdb
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.csproj.AssemblyReference.cache
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.Form1.resources
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.csproj.GenerateResource.cache
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.AssemblyInfoInputs.cache
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.AssemblyInfo.cs
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.dll
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\refint\Calculatrice_Calculator.dll
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.pdb
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\Calculatrice_Calculator.genruntimeconfig.cache
+C:\Users\sky\source\repos\Calculatrice_Calculator\Calculatrice_Calculator\obj\Debug\net6.0-windows\ref\Calculatrice_Calculator.dll
